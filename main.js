@@ -25,9 +25,7 @@ imgChange.src = "http://www.tioxic.com/wp-content/uploads/trex_4.jpg";
 
 imgChange.width = "300";
 
-//const imgChange2 = document.querySelector("asmr.png");
 
-//imgChange2.src = "asmr.png";
 
 const imgChange2 = document.querySelector("#picture-1");
 
